@@ -38,7 +38,7 @@ ou acesse [Neymar](https://twitter.com/neymarjr)
 
 #### Caixas de check
 
- - [ ] fazer a tela de login
+ - [x] fazer a tela de login
  - [ ] Criar a tela de calculo
  - [ ] Criar a tela de histórico
 
